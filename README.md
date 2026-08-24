@@ -1,2 +1,2 @@
-# disciplina_soa
-Atividade de SOA, para validação e entendimento do código elaborado com aplicação no Vercel.
+# aos-2026-2
+Aplicações Orientada a Serviços (2026.2) [UNICAP]
